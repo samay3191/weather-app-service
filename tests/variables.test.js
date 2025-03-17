@@ -21,7 +21,7 @@ describe("Variables API", () => {
   });
 
   test("GET /api/variables/:id should return a specific variable", async () => {
-    const res = await request(app).get("/api/variables/1");
+    const res = await request(app).get("/api/variables/11");
     expect(res.statusCode).toBe(200);
     expect(res.body).toHaveProperty("name");
     expect(res.body.name).toBe("AirT_inst");
