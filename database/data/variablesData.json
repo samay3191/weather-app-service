@@ -1,0 +1,121 @@
+[
+    {
+        "id": 11,
+        "weather_station_id": 1,
+        "name": "AirT_inst",
+        "long_name": "Air Temp.",
+        "unit": "Deg C"
+    },
+    {
+        "id": 12,
+        "weather_station_id": 1,
+        "name": "GHI_inst",
+        "long_name": "Solar Irrad.",
+        "unit": "W/m^2"
+    },
+    {
+        "id": 21,
+        "weather_station_id": 2,
+        "name": "AirT_inst",
+        "long_name": "Air Temp.",
+        "unit": "Deg C"
+    },
+    {
+        "id": 22,
+        "weather_station_id": 2,
+        "name": "GHI_inst",
+        "long_name": "Solar Irrad.",
+        "unit": "W/m^2"
+    },
+    {
+        "id": 31,
+        "weather_station_id": 3,
+        "name": "AirT_inst",
+        "long_name": "Air Temp.",
+        "unit": "Deg C"
+    },
+    {
+        "id": 32,
+        "weather_station_id": 3,
+        "name": "GHI_inst",
+        "long_name": "Solar Irrad.",
+        "unit": "W/m^2"
+    },
+    {
+        "id": 41,
+        "weather_station_id": 4,
+        "name": "GHI_inst",
+        "long_name": "Solar Irrad.",
+        "unit": "W/m^2"
+    },
+    {
+        "id": 51,
+        "weather_station_id": 5,
+        "name": "GHI_inst",
+        "long_name": "Solar Irrad.",
+        "unit": "W/m^2"
+    },
+    {
+        "id": 61,
+        "weather_station_id": 6,
+        "name": "GHI_inst",
+        "long_name": "Solar Irrad.",
+        "unit": "W/m^2"
+    },
+    {
+        "id": 71,
+        "weather_station_id": 7,
+        "name": "WS_avg",
+        "long_name": "Wind Speed Avg.",
+        "unit": "m/s"
+    },
+    {
+        "id": 72,
+        "weather_station_id": 7,
+        "name": "WD_avg",
+        "long_name": "Wind Dir. Avg.",
+        "unit": "Deg"
+    },
+    {
+        "id": 81,
+        "weather_station_id": 8,
+        "name": "WS_avg",
+        "long_name": "Wind Speed Avg.",
+        "unit": "m/s"
+    },
+    {
+        "id": 82,
+        "weather_station_id": 8,
+        "name": "WD_avg",
+        "long_name": "Wind Dir. Avg.",
+        "unit": "Deg"
+    },
+    {
+        "id": 91,
+        "weather_station_id": 9,
+        "name": "AirT_inst",
+        "long_name": "Air Temp.",
+        "unit": "Deg C"
+    },
+    {
+        "id": 92,
+        "weather_station_id": 9,
+        "name": "GHI_inst",
+        "long_name": "Solar Irrad.",
+        "unit": "W/m^2"
+    },
+    {
+        "id": 101,
+        "weather_station_id": 10,
+        "name": "GHI_inst",
+        "long_name": "Solar Irrad.",
+        "unit": "W/m^2"
+    },
+    {
+        "id": 102,
+        "weather_station_id": 10,
+        "name": "AirT_inst",
+        "long_name": "Air Temp.",
+        "unit": "Deg C"
+    }
+]

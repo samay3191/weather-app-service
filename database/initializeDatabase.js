@@ -1,5 +1,6 @@
 const db = require("./db");
 const weatherStationsData = require("./data/weatherStationsData.json");
+const variablesData = require("./data/variablesData.json");
 
 // Create the tables
 const createTables = () => {
@@ -47,30 +48,60 @@ const createTables = () => {
 
 // Insert provided data into WeatherStations
 const insertWeatherStations = () => {
-  const insertStatement = db.prepare(
-    "INSERT INTO WeatherStations (ws_name, site, portfolio, state, latitude, longitude) VALUES (?, ?, ?, ?, ?, ?)"
-  );
+  // Check if the table is empty
+  const rowCount = db
+    .prepare("SELECT COUNT(*) AS count FROM WeatherStations")
+    .get();
 
-  weatherStationsData.forEach((station) => {
-    insertStatement.run(
-      station.ws_name,
-      station.site,
-      station.portfolio,
-      station.state,
-      station.latitude,
-      station.longitude
+  if (rowCount.count === 0) {
+    const insertStatement = db.prepare(
+      "INSERT INTO WeatherStations (ws_name, site, portfolio, state, latitude, longitude) VALUES (?, ?, ?, ?, ?, ?)"
     );
-  });
 
-  console.log("Weather stations inserted successfully!");
+    weatherStationsData.forEach((station) => {
+      insertStatement.run(
+        station.ws_name,
+        station.site,
+        station.portfolio,
+        station.state,
+        station.latitude,
+        station.longitude
+      );
+    });
+
+    console.log("Weather stations inserted successfully!");
+  }
 };
 
+// Insert provided data into Variables
+const insertVariables = () => {
+  // Check if the table is empty
+  const rowCount = db.prepare("SELECT COUNT(*) AS count FROM Variables").get();
+
+  if (rowCount.count === 0) {
+    const insertStatement = db.prepare(
+      "INSERT INTO Variables (weather_station_id, name, long_name, unit) VALUES (?, ?, ?, ?)"
+    );
+
+    variablesData.forEach((station) => {
+      insertStatement.run(
+        station.weather_station_id,
+        station.name,
+        station.long_name,
+        station.unit
+      );
+    });
+
+    console.log("Weather stations inserted successfully!");
+  }
+};
 
 // Initialize DB
 const initializeDatabase = () => {
   createTables();
   insertWeatherStations();
+  insertVariables();
 };
 
-// Export for use in `server.js`
+// Export for use in `app.js`
 module.exports = initializeDatabase;
