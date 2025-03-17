@@ -1,6 +1,7 @@
 const db = require("./db");
 const weatherStationsData = require("./data/weatherStationsData.json");
 const variablesData = require("./data/variablesData.json");
+const weatherData = require("./data/weatherData.json");
 
 // Create the tables
 const createTables = () => {
@@ -80,19 +81,43 @@ const insertVariables = () => {
 
   if (rowCount.count === 0) {
     const insertStatement = db.prepare(
-      "INSERT INTO Variables (weather_station_id, name, long_name, unit) VALUES (?, ?, ?, ?)"
+      "INSERT INTO Variables (id, weather_station_id, name, long_name, unit) VALUES (?, ?, ?, ?, ?)"
     );
 
-    variablesData.forEach((station) => {
+    variablesData.forEach((variable) => {
       insertStatement.run(
-        station.weather_station_id,
-        station.name,
-        station.long_name,
-        station.unit
+        variable.id,
+        variable.weather_station_id,
+        variable.name,
+        variable.long_name,
+        variable.unit
       );
     });
 
-    console.log("Weather stations inserted successfully!");
+    console.log("Variables inserted successfully!");
+  }
+};
+
+// Insert provided data into Weather Data
+const insertWeatherData = () => {
+  // Check if the table is empty
+  const rowCount = db.prepare("SELECT COUNT(*) AS count FROM WeatherData").get();
+
+  if (rowCount.count === 0) {
+    const insertStatement = db.prepare(
+      "INSERT INTO WeatherData (weather_station_id, variable_id, value, timestamp) VALUES (?, ?, ?, ?)"
+    );
+
+    weatherData.forEach((reading) => {
+      insertStatement.run(
+        reading.weather_station_id,
+        reading.variable_id,
+        reading.value,
+        reading.timestamp
+      );
+    });
+
+    console.log("Weather Data inserted successfully!");
   }
 };
 
@@ -101,6 +126,7 @@ const initializeDatabase = () => {
   createTables();
   insertWeatherStations();
   insertVariables();
+  insertWeatherData();
 };
 
 // Export for use in `app.js`

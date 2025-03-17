@@ -1,0 +1,1275 @@
+[
+  {
+    "weather_station_id": 1,
+    "variable_id": 11,
+    "value": 17.09,
+    "timestamp": "2023-08-29 06:00:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 12,
+    "value": 64,
+    "timestamp": "2023-08-29 06:00:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 11,
+    "value": 17.22,
+    "timestamp": "2023-08-29 06:05:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 12,
+    "value": 47,
+    "timestamp": "2023-08-29 06:05:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 11,
+    "value": 17.32,
+    "timestamp": "2023-08-29 06:10:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 12,
+    "value": 46,
+    "timestamp": "2023-08-29 06:10:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 11,
+    "value": 17.2,
+    "timestamp": "2023-08-29 06:15:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 12,
+    "value": 56,
+    "timestamp": "2023-08-29 06:15:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 11,
+    "value": 17.17,
+    "timestamp": "2023-08-29 06:20:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 12,
+    "value": 60,
+    "timestamp": "2023-08-29 06:20:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 11,
+    "value": 17.24,
+    "timestamp": "2023-08-29 06:25:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 12,
+    "value": 58,
+    "timestamp": "2023-08-29 06:25:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 11,
+    "value": 17.51,
+    "timestamp": "2023-08-29 06:30:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 12,
+    "value": 54,
+    "timestamp": "2023-08-29 06:30:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 11,
+    "value": 17.84,
+    "timestamp": "2023-08-29 06:35:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 12,
+    "value": 55,
+    "timestamp": "2023-08-29 06:35:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 11,
+    "value": 17.97,
+    "timestamp": "2023-08-29 06:40:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 12,
+    "value": 56,
+    "timestamp": "2023-08-29 06:40:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 11,
+    "value": 17.87,
+    "timestamp": "2023-08-29 06:45:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 12,
+    "value": 54,
+    "timestamp": "2023-08-29 06:45:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 11,
+    "value": 17.62,
+    "timestamp": "2023-08-29 06:50:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 12,
+    "value": 60,
+    "timestamp": "2023-08-29 06:50:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 11,
+    "value": 17.54,
+    "timestamp": "2023-08-29 06:55:00"
+  },
+  {
+    "weather_station_id": 1,
+    "variable_id": 12,
+    "value": 46,
+    "timestamp": "2023-08-29 06:55:00"
+  },
+
+  {
+    "weather_station_id": 2,
+    "variable_id": 22,
+    "value": 736.3,
+    "timestamp": "2023-08-29 02:05:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 21,
+    "value": 19.78,
+    "timestamp": "2023-08-29 02:05:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 22,
+    "value": 736,
+    "timestamp": "2023-08-29 02:10:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 21,
+    "value": 19.74,
+    "timestamp": "2023-08-29 02:10:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 22,
+    "value": 734.1,
+    "timestamp": "2023-08-29 02:15:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 21,
+    "value": 19.8,
+    "timestamp": "2023-08-29 02:15:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 22,
+    "value": 734,
+    "timestamp": "2023-08-29 02:20:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 21,
+    "value": 19.46,
+    "timestamp": "2023-08-29 02:20:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 22,
+    "value": 732.1,
+    "timestamp": "2023-08-29 02:25:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 21,
+    "value": 19.6,
+    "timestamp": "2023-08-29 02:25:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 22,
+    "value": 729.5,
+    "timestamp": "2023-08-29 02:30:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 21,
+    "value": 19.14,
+    "timestamp": "2023-08-29 02:30:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 22,
+    "value": 727.1,
+    "timestamp": "2023-08-29 02:35:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 21,
+    "value": 19.13,
+    "timestamp": "2023-08-29 02:35:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 22,
+    "value": 722.7,
+    "timestamp": "2023-08-29 02:40:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 21,
+    "value": 19.41,
+    "timestamp": "2023-08-29 02:40:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 22,
+    "value": 717.7,
+    "timestamp": "2023-08-29 02:45:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 21,
+    "value": 19.78,
+    "timestamp": "2023-08-29 02:45:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 22,
+    "value": 713.1,
+    "timestamp": "2023-08-29 02:50:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 21,
+    "value": 19.85,
+    "timestamp": "2023-08-29 02:50:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 22,
+    "value": 708.6,
+    "timestamp": "2023-08-29 02:55:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 21,
+    "value": 19.87,
+    "timestamp": "2023-08-29 02:55:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 22,
+    "value": 702.4,
+    "timestamp": "2023-08-29 03:00:00"
+  },
+  {
+    "weather_station_id": 2,
+    "variable_id": 21,
+    "value": 19.93,
+    "timestamp": "2023-08-29 03:00:00"
+  },
+
+  {
+    "weather_station_id": 3,
+    "variable_id": 32,
+    "value": 728.937,
+    "timestamp": "2023-08-29 02:05:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 31,
+    "value": 19.4833,
+    "timestamp": "2023-08-29 02:05:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 32,
+    "value": 728.64,
+    "timestamp": "2023-08-29 02:10:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 31,
+    "value": 19.4439,
+    "timestamp": "2023-08-29 02:10:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 32,
+    "value": 726.759,
+    "timestamp": "2023-08-29 02:15:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 31,
+    "value": 19.503,
+    "timestamp": "2023-08-29 02:15:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 32,
+    "value": 726.66,
+    "timestamp": "2023-08-29 02:20:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 31,
+    "value": 19.1681,
+    "timestamp": "2023-08-29 02:20:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 32,
+    "value": 724.779,
+    "timestamp": "2023-08-29 02:25:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 31,
+    "value": 19.306,
+    "timestamp": "2023-08-29 02:25:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 32,
+    "value": 722.205,
+    "timestamp": "2023-08-29 02:30:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 31,
+    "value": 18.8529,
+    "timestamp": "2023-08-29 02:30:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 32,
+    "value": 719.829,
+    "timestamp": "2023-08-29 02:35:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 31,
+    "value": 18.84305,
+    "timestamp": "2023-08-29 02:35:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 32,
+    "value": 715.473,
+    "timestamp": "2023-08-29 02:40:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 31,
+    "value": 19.11885,
+    "timestamp": "2023-08-29 02:40:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 32,
+    "value": 710.523,
+    "timestamp": "2023-08-29 02:45:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 31,
+    "value": 19.4833,
+    "timestamp": "2023-08-29 02:45:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 32,
+    "value": 705.969,
+    "timestamp": "2023-08-29 02:50:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 31,
+    "value": 19.55225,
+    "timestamp": "2023-08-29 02:50:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 32,
+    "value": 701.514,
+    "timestamp": "2023-08-29 02:55:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 31,
+    "value": 19.57195,
+    "timestamp": "2023-08-29 02:55:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 32,
+    "value": 695.376,
+    "timestamp": "2023-08-29 03:00:00"
+  },
+  {
+    "weather_station_id": 3,
+    "variable_id": 31,
+    "value": 19.63105,
+    "timestamp": "2023-08-29 03:00:00"
+  },
+
+  {
+    "weather_station_id": 4,
+    "variable_id": 41,
+    "value": 750,
+    "timestamp": "2023-08-29 02:00:00"
+  },
+  {
+    "weather_station_id": 4,
+    "variable_id": 41,
+    "value": 751.7,
+    "timestamp": "2023-08-29 02:05:00"
+  },
+  {
+    "weather_station_id": 4,
+    "variable_id": 41,
+    "value": 754.1,
+    "timestamp": "2023-08-29 02:10:00"
+  },
+  {
+    "weather_station_id": 4,
+    "variable_id": 41,
+    "value": 759.6,
+    "timestamp": "2023-08-29 02:15:00"
+  },
+  {
+    "weather_station_id": 4,
+    "variable_id": 41,
+    "value": 764.7,
+    "timestamp": "2023-08-29 02:20:00"
+  },
+  {
+    "weather_station_id": 4,
+    "variable_id": 41,
+    "value": 780.4,
+    "timestamp": "2023-08-29 02:25:00"
+  },
+  {
+    "weather_station_id": 4,
+    "variable_id": 41,
+    "value": 783.1,
+    "timestamp": "2023-08-29 02:30:00"
+  },
+  {
+    "weather_station_id": 4,
+    "variable_id": 41,
+    "value": 723.4,
+    "timestamp": "2023-08-29 02:35:00"
+  },
+  {
+    "weather_station_id": 4,
+    "variable_id": 41,
+    "value": 748.3,
+    "timestamp": "2023-08-29 02:40:00"
+  },
+  {
+    "weather_station_id": 4,
+    "variable_id": 41,
+    "value": 749.1,
+    "timestamp": "2023-08-29 02:45:00"
+  },
+  {
+    "weather_station_id": 4,
+    "variable_id": 41,
+    "value": 693.1,
+    "timestamp": "2023-08-29 02:50:00"
+  },
+  {
+    "weather_station_id": 4,
+    "variable_id": 41,
+    "value": 753.4,
+    "timestamp": "2023-08-29 02:55:00"
+  },
+  {
+    "weather_station_id": 4,
+    "variable_id": 41,
+    "value": 750.6,
+    "timestamp": "2023-08-29 03:00:00"
+  },
+
+  {
+    "weather_station_id": 5,
+    "variable_id": 51,
+    "value": 738.75,
+    "timestamp": "2023-08-29 02:00:00"
+  },
+  {
+    "weather_station_id": 5,
+    "variable_id": 51,
+    "value": 740.4245,
+    "timestamp": "2023-08-29 02:05:00"
+  },
+  {
+    "weather_station_id": 5,
+    "variable_id": 51,
+    "value": 742.7885,
+    "timestamp": "2023-08-29 02:10:00"
+  },
+  {
+    "weather_station_id": 5,
+    "variable_id": 51,
+    "value": 748.206,
+    "timestamp": "2023-08-29 02:15:00"
+  },
+  {
+    "weather_station_id": 5,
+    "variable_id": 51,
+    "value": 753.2295,
+    "timestamp": "2023-08-29 02:20:00"
+  },
+  {
+    "weather_station_id": 5,
+    "variable_id": 51,
+    "value": 768.694,
+    "timestamp": "2023-08-29 02:25:00"
+  },
+  {
+    "weather_station_id": 5,
+    "variable_id": 51,
+    "value": 771.3535,
+    "timestamp": "2023-08-29 02:30:00"
+  },
+  {
+    "weather_station_id": 5,
+    "variable_id": 51,
+    "value": 712.549,
+    "timestamp": "2023-08-29 02:35:00"
+  },
+  {
+    "weather_station_id": 5,
+    "variable_id": 51,
+    "value": 737.0755,
+    "timestamp": "2023-08-29 02:40:00"
+  },
+  {
+    "weather_station_id": 5,
+    "variable_id": 51,
+    "value": 737.8635,
+    "timestamp": "2023-08-29 02:45:00"
+  },
+  {
+    "weather_station_id": 5,
+    "variable_id": 51,
+    "value": 682.7035,
+    "timestamp": "2023-08-29 02:50:00"
+  },
+  {
+    "weather_station_id": 5,
+    "variable_id": 51,
+    "value": 742.099,
+    "timestamp": "2023-08-29 02:55:00"
+  },
+  {
+    "weather_station_id": 5,
+    "variable_id": 51,
+    "value": 739.341,
+    "timestamp": "2023-08-29 03:00:00"
+  },
+
+  {
+    "weather_station_id": 6,
+    "variable_id": 61,
+    "value": 701.8125,
+    "timestamp": "2023-08-29 02:00:00"
+  },
+  {
+    "weather_station_id": 6,
+    "variable_id": 61,
+    "value": 703.403275,
+    "timestamp": "2023-08-29 02:05:00"
+  },
+  {
+    "weather_station_id": 6,
+    "variable_id": 61,
+    "value": 705.649075,
+    "timestamp": "2023-08-29 02:10:00"
+  },
+  {
+    "weather_station_id": 6,
+    "variable_id": 61,
+    "value": 710.7957,
+    "timestamp": "2023-08-29 02:15:00"
+  },
+  {
+    "weather_station_id": 6,
+    "variable_id": 61,
+    "value": 715.568025,
+    "timestamp": "2023-08-29 02:20:00"
+  },
+  {
+    "weather_station_id": 6,
+    "variable_id": 61,
+    "value": 730.2593,
+    "timestamp": "2023-08-29 02:25:00"
+  },
+  {
+    "weather_station_id": 6,
+    "variable_id": 61,
+    "value": 732.785825,
+    "timestamp": "2023-08-29 02:30:00"
+  },
+  {
+    "weather_station_id": 6,
+    "variable_id": 61,
+    "value": 676.92155,
+    "timestamp": "2023-08-29 02:35:00"
+  },
+  {
+    "weather_station_id": 6,
+    "variable_id": 61,
+    "value": 700.221725,
+    "timestamp": "2023-08-29 02:40:00"
+  },
+  {
+    "weather_station_id": 6,
+    "variable_id": 61,
+    "value": 700.970325,
+    "timestamp": "2023-08-29 02:45:00"
+  },
+  {
+    "weather_station_id": 6,
+    "variable_id": 61,
+    "value": 648.568325,
+    "timestamp": "2023-08-29 02:50:00"
+  },
+  {
+    "weather_station_id": 6,
+    "variable_id": 61,
+    "value": 704.99405,
+    "timestamp": "2023-08-29 02:55:00"
+  },
+  {
+    "weather_station_id": 6,
+    "variable_id": 61,
+    "value": 702.37395,
+    "timestamp": "2023-08-29 03:00:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 71,
+    "value": 1.443,
+    "timestamp": "2023-08-29 02:00:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 72,
+    "value": 190.4,
+    "timestamp": "2023-08-29 02:00:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 71,
+    "value": 1.634,
+    "timestamp": "2023-08-29 02:05:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 72,
+    "value": 37.11,
+    "timestamp": "2023-08-29 02:05:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 71,
+    "value": 1.806,
+    "timestamp": "2023-08-29 02:10:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 72,
+    "value": 229.1,
+    "timestamp": "2023-08-29 02:10:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 71,
+    "value": 2.642,
+    "timestamp": "2023-08-29 02:15:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 72,
+    "value": 303.9,
+    "timestamp": "2023-08-29 02:15:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 71,
+    "value": 2.633,
+    "timestamp": "2023-08-29 02:20:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 72,
+    "value": 274.6,
+    "timestamp": "2023-08-29 02:20:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 71,
+    "value": 2.266,
+    "timestamp": "2023-08-29 02:25:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 72,
+    "value": 311.9,
+    "timestamp": "2023-08-29 02:25:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 71,
+    "value": 2.716,
+    "timestamp": "2023-08-29 02:30:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 72,
+    "value": 322.9,
+    "timestamp": "2023-08-29 02:30:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 71,
+    "value": 2.578,
+    "timestamp": "2023-08-29 02:35:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 72,
+    "value": 310.6,
+    "timestamp": "2023-08-29 02:35:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 71,
+    "value": 2.992,
+    "timestamp": "2023-08-29 02:40:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 72,
+    "value": 315.1,
+    "timestamp": "2023-08-29 02:40:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 71,
+    "value": 2.395,
+    "timestamp": "2023-08-29 02:45:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 72,
+    "value": 298,
+    "timestamp": "2023-08-29 02:45:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 71,
+    "value": 2.533,
+    "timestamp": "2023-08-29 02:50:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 72,
+    "value": 292.8,
+    "timestamp": "2023-08-29 02:50:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 71,
+    "value": 1.913,
+    "timestamp": "2023-08-29 02:55:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 72,
+    "value": 274.1,
+    "timestamp": "2023-08-29 02:55:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 71,
+    "value": 2.237,
+    "timestamp": "2023-08-29 03:00:00"
+  },
+  {
+    "weather_station_id": 7,
+    "variable_id": 72,
+    "value": 295.5,
+    "timestamp": "2023-08-29 03:00:00"
+  },
+
+  {
+    "weather_station_id": 8,
+    "variable_id": 81,
+    "value": 2.318,
+    "timestamp": "2023-08-29 02:05:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 82,
+    "value": 21.5,
+    "timestamp": "2023-08-29 02:05:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 81,
+    "value": 2.312,
+    "timestamp": "2023-08-29 02:10:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 82,
+    "value": 21.49,
+    "timestamp": "2023-08-29 02:10:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 81,
+    "value": 2.31,
+    "timestamp": "2023-08-29 02:15:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 82,
+    "value": 21.47,
+    "timestamp": "2023-08-29 02:15:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 81,
+    "value": 2.302,
+    "timestamp": "2023-08-29 02:20:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 82,
+    "value": 21.45,
+    "timestamp": "2023-08-29 02:20:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 81,
+    "value": 2.295,
+    "timestamp": "2023-08-29 02:25:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 82,
+    "value": 21.42,
+    "timestamp": "2023-08-29 02:25:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 81,
+    "value": 2.29,
+    "timestamp": "2023-08-29 02:30:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 82,
+    "value": 21.4,
+    "timestamp": "2023-08-29 02:30:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 81,
+    "value": 2.28,
+    "timestamp": "2023-08-29 02:35:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 82,
+    "value": 21.38,
+    "timestamp": "2023-08-29 02:35:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 81,
+    "value": 2.276,
+    "timestamp": "2023-08-29 02:40:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 82,
+    "value": 21.36,
+    "timestamp": "2023-08-29 02:40:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 81,
+    "value": 2.27,
+    "timestamp": "2023-08-29 02:45:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 82,
+    "value": 21.33,
+    "timestamp": "2023-08-29 02:45:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 81,
+    "value": 2.268,
+    "timestamp": "2023-08-29 02:50:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 82,
+    "value": 21.3,
+    "timestamp": "2023-08-29 02:50:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 81,
+    "value": 2.26,
+    "timestamp": "2023-08-29 02:55:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 82,
+    "value": 21.28,
+    "timestamp": "2023-08-29 02:55:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 81,
+    "value": 2.254,
+    "timestamp": "2023-08-29 03:00:00"
+  },
+  {
+    "weather_station_id": 8,
+    "variable_id": 82,
+    "value": 21.25,
+    "timestamp": "2023-08-29 03:00:00"
+  },
+
+  {
+    "weather_station_id": 9,
+    "variable_id": 91,
+    "value": 120.9,
+    "timestamp": "2023-08-29 02:05:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 92,
+    "value": 21.88,
+    "timestamp": "2023-08-29 02:05:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 91,
+    "value": 127.8,
+    "timestamp": "2023-08-29 02:10:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 92,
+    "value": 21.79,
+    "timestamp": "2023-08-29 02:10:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 91,
+    "value": 147,
+    "timestamp": "2023-08-29 02:15:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 92,
+    "value": 21.29,
+    "timestamp": "2023-08-29 02:15:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 91,
+    "value": 129.3,
+    "timestamp": "2023-08-29 02:20:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 92,
+    "value": 20.81,
+    "timestamp": "2023-08-29 02:20:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 91,
+    "value": 110.6,
+    "timestamp": "2023-08-29 02:25:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 92,
+    "value": 20.7,
+    "timestamp": "2023-08-29 02:25:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 91,
+    "value": 113.5,
+    "timestamp": "2023-08-29 02:30:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 92,
+    "value": 20.46,
+    "timestamp": "2023-08-29 02:30:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 91,
+    "value": 108.6,
+    "timestamp": "2023-08-29 02:35:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 92,
+    "value": 20.25,
+    "timestamp": "2023-08-29 02:35:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 91,
+    "value": 114.1,
+    "timestamp": "2023-08-29 02:40:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 92,
+    "value": 20.02,
+    "timestamp": "2023-08-29 02:40:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 91,
+    "value": 116.4,
+    "timestamp": "2023-08-29 02:45:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 92,
+    "value": 20.1,
+    "timestamp": "2023-08-29 02:45:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 91,
+    "value": 106.5,
+    "timestamp": "2023-08-29 02:50:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 92,
+    "value": 20,
+    "timestamp": "2023-08-29 02:50:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 91,
+    "value": 103.4,
+    "timestamp": "2023-08-29 02:55:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 92,
+    "value": 20.14,
+    "timestamp": "2023-08-29 02:55:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 91,
+    "value": 126.6,
+    "timestamp": "2023-08-29 03:00:00"
+  },
+  {
+    "weather_station_id": 9,
+    "variable_id": 92,
+    "value": 19.9,
+    "timestamp": "2023-08-29 03:00:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 101,
+    "value": 746.9,
+    "timestamp": "2023-08-28 02:00:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 102,
+    "value": 17.71,
+    "timestamp": "2023-08-28 02:00:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 101,
+    "value": 746.8,
+    "timestamp": "2023-08-28 02:05:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 102,
+    "value": 17.57,
+    "timestamp": "2023-08-28 02:05:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 101,
+    "value": 750,
+    "timestamp": "2023-08-28 02:10:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 102,
+    "value": 17.82,
+    "timestamp": "2023-08-28 02:10:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 101,
+    "value": 747.8,
+    "timestamp": "2023-08-28 02:15:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 102,
+    "value": 18.4,
+    "timestamp": "2023-08-28 02:15:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 101,
+    "value": 743.6,
+    "timestamp": "2023-08-28 02:20:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 102,
+    "value": 18.2,
+    "timestamp": "2023-08-28 02:20:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 101,
+    "value": 740.8,
+    "timestamp": "2023-08-28 02:25:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 102,
+    "value": 18.65,
+    "timestamp": "2023-08-28 02:25:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 101,
+    "value": 737.2,
+    "timestamp": "2023-08-28 02:30:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 102,
+    "value": 17.87,
+    "timestamp": "2023-08-28 02:30:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 101,
+    "value": 735.1,
+    "timestamp": "2023-08-28 02:35:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 102,
+    "value": 18.47,
+    "timestamp": "2023-08-28 02:35:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 101,
+    "value": 734.1,
+    "timestamp": "2023-08-28 02:40:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 102,
+    "value": 18.85,
+    "timestamp": "2023-08-28 02:40:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 101,
+    "value": 733.6,
+    "timestamp": "2023-08-28 02:45:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 102,
+    "value": 18.48,
+    "timestamp": "2023-08-28 02:45:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 101,
+    "value": 728.4,
+    "timestamp": "2023-08-28 02:50:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 102,
+    "value": 18.6,
+    "timestamp": "2023-08-28 02:50:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 101,
+    "value": 721.7,
+    "timestamp": "2023-08-28 02:55:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 102,
+    "value": 18.41,
+    "timestamp": "2023-08-28 02:55:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 101,
+    "value": 733.4,
+    "timestamp": "2023-08-28 03:00:00"
+  },
+  {
+    "weather_station_id": 10,
+    "variable_id": 102,
+    "value": 18.57,
+    "timestamp": "2023-08-28 03:00:00"
+  }
+]

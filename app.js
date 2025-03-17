@@ -4,9 +4,9 @@ const cors = require("cors");
 const initializeDatabase = require("./database/initializeDatabase");
 const weatherStationsRoute = require("./routes/weatherStationsRoute");
 const variablesRoute = require("./routes/variablesRoute");
+const weatherDataRoute = require("./routes/weatherDataRoute");
 
 const app = express();
-const PORT = process.env.PORT || 3000;
 
 app.use(bodyParser.json());
 app.use(cors());
@@ -16,5 +16,6 @@ initializeDatabase();
 
 app.use("/api/weatherStations", weatherStationsRoute);
 app.use("/api/variables", variablesRoute);
+app.use("/api/weatherData", weatherDataRoute);
 
 module.exports = app;
