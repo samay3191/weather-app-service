@@ -17,6 +17,4 @@ initializeDatabase();
 app.use("/api/weatherStations", weatherStationsRoute);
 app.use("/api/variables", variablesRoute);
 
-app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
-});
+module.exports = app;
